@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+  
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.bg{
+  background-image: url(./Images/img2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.img{
+  max-width: 450px;
+  margin: 2px;
+}
+.blue{
+  background-image: url(./Images/cnb.png);
+}
+.pink{
+  background-image: url(./Images/pink.png);
+}
+.b1{
+  background-color: #9f95ed;
+
+}
+.w{
+  color: antiquewhite;
+}
+.blueheader{
+  background-color: rgb(49, 85, 230);
+}
+
+.container2{
+  margin-top: 100px;
+  margin-bottom: 15px;
+}
+.btn11{
+  margin-left: 250px;
+}
+.btn{
+  margin-top: 10px;
+  margin-left: 20px;
+}
+h3 {
+  
+  color: aliceblue;
+}
+.tab{
+  margin-top: 50px;
+}
+.container{
+  margin-top: 10px;
+}
+.tablespace{
+  margin-top: 80px;
+}
+.footerspace{
+  margin-top: 50px;
+  
+}
