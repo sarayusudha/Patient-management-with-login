@@ -39,7 +39,7 @@
   }
 }
 .bg{
-  background-image: url(./Images/img2.jpg);
+  background-image: url(./layout/images/img2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
